@@ -1,0 +1,82 @@
+- 
+  id: 3
+  name: "Gauthier"
+  surname: "Kasonga"
+  company: "ImaniHub"
+  title: "Program Manager"
+  bio: "Gauthier is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives."
+  thumbnailUrl: gauthierkasonga.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+gauthierkasonga/"}
+- 
+  id: 4
+  name: "Kenneth"
+  surname: "Kinyanjui"
+  company: "Infinity Space Nairobi"
+  title: "CTO"
+  bio: "Ken est un hacker de python du Kenya, avec un baccalaureat en technologie de l'information acquise a Strathmore University. Comme Google Developer Mentor au Kenya, il est l'un des pionniers de l'innovation au Kenya. Il aime la natation et la course."
+  thumbnailUrl: kenneth.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/102852233334332438474/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+KennethKinyanjui"}
+    - {name: "github", link: "https://github.com/kenju254"}
+- 
+  id: 5
+  name: "Michel"
+  surname: "Isamuna"
+  company: "SynapseHub, GDG Mentor"
+  title: "Software Engineer"
+  bio: "Michel est un developer Java, Android et specialiste en GIS, avec un bac+5 en Informatique de gestion acquise a ISIG Goma. Comme Google Developer Mentor en RDC, il est l'une des personnes qui essaye de montrer que la RDC peut aller de l'avant. Il aime le karate, le basketball et la lecture. Il est initiateur et CEO de SynapseHub, un incubateur des startups a Goma, et actuellement travaille sur le projet SmartGeoTools"
+  thumbnailUrl: michelisamuna.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/104230377423943333420/"}
+  social: 
+    - {name: "google-plus", link: "https://gplus.to/mishka"}
+    - {name: "twitter", link: "https://twitter.com/misamuna"}
+    - {name: "github", link: "https://github.com/MdelM"}
+- 
+  id: 6
+  name: "Olga"
+  surname: "Kinyamusitu"
+  company: "ISIPA Kin, GDG Kisantu"
+  title: "Developer"
+  bio: "Olga est passionné des nouvelles technologies"
+  thumbnailUrl: olgakinyas.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+OlgaKinyas/"}
+    - {name: "twitter", link: "http://twitter.com/Olga12ski"}
+    - {name: "site", link: "http://www.olgatech.wordpress.com"}
+- 
+  id: 7
+  name: "Steve"
+  surname: "Chitekulu"
+  company: "UNILU, GDG Lubum"
+  title: "Assistant/GDG manager"
+  bio: "Steve a une tres grande passion de l'informatique qu'il consacre le plus de son temp dans la formation de la jeunesse congolaise en tant qu'assistant a l'université de lubumbashi"
+  thumbnailUrl: stevechitek.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/104203731941109249273/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+SteveChitekulu"}
+    - {name: "site", link: "http://www.youtube.com/channel/UCu4bLJZUnmZMLQ8R1BAsmHA"}
+- 
+  id: 8
+  name: "Raphael"
+  surname: "Amisi"
+  company: "IHUSI Bkv, GDG Bukavu"
+  title: "Network Administrator"
+  bio: "Raphael est passionné des nouvelles technologies"
+  thumbnailUrl: raphamisi.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RaphAmisi/"}
+  

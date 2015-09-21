@@ -1,0 +1,12 @@
+- 
+  group: "Organisateur principal"
+  elements: 
+    - {name: "GDG Goma", description: "GDG Goma - Communaute des Geeks Open Source et Volontaire", link: "http://goma.gtugs.org", imageUrl: "gdg-goma.svg"}
+- 
+  group: "Co-organisateur"
+  elements: 
+    - {name: "GDG Kisantu", description: "GDG Kisantu - Communaute des Geeks Open Source et Volontaire", link: "http://goma.gtugs.org", imageUrl: "ggdg-kisantu.svg"}
+    - {name: "GDG Kinshasa", description: "GDG Kinshasa - Communaute des Geeks Open Source et Volontaire", link: "http://goma.gtugs.org", imageUrl: "gdg-kin.svg"}
+    - {name: "GDG lubum", description: "GDG Lubum - Communaute des Geeks Open Source et Volontaire", link: "http://goma.gtugs.org", imageUrl: "gdg-lubum.svg"}
+    - {name: "GDG Bukavu", description: "GDG Bukavu - Communaute des Geeks Open Source et Volontaire", link: "http://goma.gtugs.org", imageUrl: "gdg-bkv.svg"}
+    - {name: "GDG Beni", description: "GDG Beni - Communaute des Geeks Open Source et Volontaire", link: "http://goma.gtugs.org", imageUrl: "gdg-beni.svg"}

@@ -1,0 +1,5 @@
+title: "A propos du GDG DevFest"
+blocks:
+ - {title: "Conference", image: "conferencedr.jpg", text: "Deux jours complets avec des conferences bien choisies et des speakers experimentes ! Beaucoup des surprises vous attendent ..." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Deux jours complets de sessions de travail, de codage, de piratage et de debugging. Venez et palpez votre technologie favorite!" }
+ - {title: "Hackathon", image: "hackathondr.jpg", text: "Deux jours de Hackathon! Vous voulez un team building réel ? Prenez votre equipe et rejoignez notre hackathon!" }

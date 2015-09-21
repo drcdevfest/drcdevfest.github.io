@@ -1,0 +1,6 @@
+image: "statistic.jpg"
+blocks:
+ - {count: "200", specialCharacter: "+", info: "participants", detail: "de partout"}
+ - {count: "30", specialCharacter: "+", info: "heures", detail: "de Technologies Google"}
+ - {count: "8", specialCharacter: "+", info: "speakers", detail: "du pays et ailleurs"}
+ - {count: "3", specialCharacter: "", info: "sessions paralleles", detail: "plus moments de detente"}

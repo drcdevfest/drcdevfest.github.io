@@ -1,0 +1,11 @@
+title: "Trouve ton chemin ici"
+distance: "Distance"
+driving: "DRIVING"
+walking: "WALKING"
+bicycling: "BICYCLING"
+transit: "TRANSIT"
+findFlight: "Trouver un vol"
+viewOnMap: "Voir sur Google Maps"
+mapCenterCoordinates: "-1.677075, 29.229751"
+mapMobileCenterCoordinates: "-1.682793, 29.235623"
+mapAutoDirections: false

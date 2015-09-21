@@ -1,0 +1,8 @@
+image: "gdayrdc.jpg"
+title: "GDG DevFest <typeout> 2015"
+eventDate: "Novembre, 2015"
+typeoutTextValues: '"", "Saison ", "DRC", "Goma", "Kinshasa", "Butembo", "Kisantu", "Bukavu", "Beni"'
+typeoutFallback: "Season"
+buttons:
+ - {link: "http://goo.gl/eig4s7", text: "Reservez un place"}
+# - {permalink: "/#tickets", text: "Reservez"}

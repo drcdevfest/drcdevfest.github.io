@@ -1,0 +1,20 @@
+- 
+  group: "Sponsor General"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "GDG Goma", description: "GDG Goma - Communaute des Geeks Open Source et Volontaire", link: "http://goma.gtugs.org", imageUrl: "gdg-goma.svg"}
+- 
+  group: "Avec le support de"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "GDG Goma", description: "GDG Goma - Communaute des Geeks Open Source et Volontaire", link: "http://goma.gtugs.org", imageUrl: "gdg-goma.svg", width: "120px"}
+    - {name: "GDG RDC", description: "GDG RDC - Communaute des Geeks Open Source et Volontaire en RDC", link: "http://gdgrdc.com", imageUrl: "gdg-rdc.svg", width: "120px"}
+
+- 
+  group: "Informations des partenaires"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "GDG Goma", description: "GDG Goma - Communaute des Geeks Open Source et Volontaire", link: "http://goma.gtugs.org", imageUrl: "gdg-goma.svg", width: "120px"}
+    - {name: "GDG RDC", description: "GDG RDC - Communaute des Geeks Open Source et Volontaire en RDC", link: "http://gdgrdc.com", imageUrl: "gdg-rdc.svg", width: "120px"}
+    
+    

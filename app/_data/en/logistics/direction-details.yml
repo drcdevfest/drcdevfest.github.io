@@ -1,0 +1,30 @@
+image: "direction-details.jpg"
+title: "Autour de GDG Goma"
+cards:
+ - {title: "De l'Aeroport", information: "Aeroport de goma est en plein centre ville. Il vous sera donc facile de trouver un taxi ou un vehicule juste à votre sortie. Contactez-nous pour plus d'informations."}
+ - {title: "Hotels", information: "Goma possede plusieurs grandes hotels et hotels simple. Contactez-nous pour plus d'informations."}
+wideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Hotels"
+    links:
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Hotel Ihusi"}
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Linda Hotel"}
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Cap Kivu Hotel"}
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Ishango Guest House"}
+   -
+    title: "Registration"
+    links:
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Hotel Ihusi"}
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Linda Hotel"}
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Cap Kivu Hotel"}
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Ishango Guest House"}
+   -
+    title: "Attendance Details"
+    links:
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Hotel Ihusi"}
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Linda Hotel"}
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Cap Kivu Hotel"}
+     - {link: "https://plus.google.com/b/104230377423943333420", text: "Ishango Guest House"}
