@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://drcdevfest.github.io//drcdevfest/blog/call-for-papers</loc>
+    <loc>http://drcdevfest.github.io//blog/call-for-papers</loc>
     <lastmod>2014-07-21T11:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://drcdevfest.github.io//drcdevfest/blog/hello-world</loc>
+    <loc>http://drcdevfest.github.io//blog/hello-world</loc>
     <lastmod>2014-07-21T10:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://drcdevfest.github.io//drcdevfest/blog/</loc>
+    <loc>http://drcdevfest.github.io//blog/</loc>
   </url>
   <url>
-    <loc>http://drcdevfest.github.io//drcdevfest/cod/</loc>
+    <loc>http://drcdevfest.github.io//cod/</loc>
   </url>
   <url>
-    <loc>http://drcdevfest.github.io//drcdevfest/hackathon/</loc>
+    <loc>http://drcdevfest.github.io//hackathon/</loc>
   </url>
   <url>
-    <loc>http://drcdevfest.github.io//drcdevfest/</loc>
+    <loc>http://drcdevfest.github.io//</loc>
   </url>
   <url>
-    <loc>http://drcdevfest.github.io//drcdevfest/logistics/</loc>
+    <loc>http://drcdevfest.github.io//logistics/</loc>
   </url>
   <url>
-    <loc>http://drcdevfest.github.io//drcdevfest/schedule/</loc>
+    <loc>http://drcdevfest.github.io//schedule/</loc>
   </url>
   <url>
-    <loc>http://drcdevfest.github.io//drcdevfest/speakers/</loc>
+    <loc>http://drcdevfest.github.io//speakers/</loc>
   </url>
   <url>
-    <loc>http://drcdevfest.github.io//drcdevfest/team/</loc>
+    <loc>http://drcdevfest.github.io//team/</loc>
   </url>
 </urlset>
